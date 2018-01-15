@@ -1,0 +1,215 @@
+$dark-color: #000;
+$dark-color-01: #232323;
+$dark-color-02: #0d3393;
+$dark-color-03: #2c479e;
+$dark-color-04: #111111;
+
+$medium-color: #ff0000; // red
+$medium-color-01: #ebe923; // yellow-01
+$medium-color-02: #ff0000;
+
+$medium-color-10: #1674f0;
+
+$light-color: #fff;
+$light-color-01: #fafafa;
+$light-color-02: #f1f1f1;
+$light-color-03: #fbfbfb;
+$light-color-04: #f8f1f1;
+$light-color-05: #ddd;
+
+$grey: #444;
+
+$red: #ff0000;
+
+$sans-serif-font-family: 'Roboto', Arial, sans-serif;
+$second-sans-serif-font-family: 'futura-pt-bold', Arial, sans-serif;
+$serif-font-family: 'bodoni-urw', 'Times New Roman', serif;
+
+$main-font-size: 14px;
+$main-font-size-00: 15px;
+$main-font-size-01: 16px;
+$main-font-size-02: 18px;
+$main-font-size-03: 20px;
+$main-font-size-04: 22px;
+
+$small-font-size: 12px;
+$small-font-size-00: 13px;
+$small-font-size-01: 14px;
+
+$larger-font-size: 18px;
+$larger-font-size-00: 20px;
+$larger-font-size-01: 22px;
+$larger-font-size-02: 24px;
+$larger-font-size-03: 26px;
+$larger-font-size-04: 28px;
+$larger-font-size-05: 30px;
+$larger-font-size-06: 32px;
+
+$large-font-size: 20px;
+$large-font-size-00: 22px;
+$large-font-size-01: 24px;
+$large-font-size-02: 26px;
+$large-font-size-03: 28px;
+$large-font-size-04: 30px;
+$large-font-size-05: 32px;
+$large-font-size-06: 34px;
+$large-font-size-07: 36px;
+$large-font-size-08: 38px;
+$large-font-size-09: 40px;
+$large-font-size-10: 42px;
+
+$very-large-font-size: 28px;
+$very-large-font-size-00: 30px;
+$very-large-font-size-01: 32px;
+$very-large-font-size-02: 34px;
+$very-large-font-size-03: 36px;
+$very-large-font-size-04: 38px;
+$very-large-font-size-05: 40px;
+$very-large-font-size-06: 42px;
+$very-large-font-size-07: 44px;
+$very-large-font-size-08: 46px;
+$very-large-font-size-09: 48px;
+$very-large-font-size-10: 50px;
+$very-large-font-size-11: 52px;
+$very-large-font-size-12: 54px;
+$very-large-font-size-13: 56px;
+$very-large-font-size-14: 58px;
+$very-large-font-size-15: 60px;
+$very-large-font-size-16: 62px;
+$very-large-font-size-17: 64px;
+$very-large-font-size-18: 66px;
+$very-large-font-size-19: 68px;
+$very-large-font-size-20: 70px;
+
+$extra-large-font-size: 32px;
+$extra-large-font-size-00: 34px;
+$extra-large-font-size-01: 36px;
+$extra-large-font-size-02: 38px;
+$extra-large-font-size-03: 40px;
+$extra-large-font-size-04: 42px;
+$extra-large-font-size-05: 44px;
+$extra-large-font-size-06: 46px;
+$extra-large-font-size-07: 48px;
+$extra-large-font-size-08: 50px;
+$extra-large-font-size-09: 52px;
+$extra-large-font-size-10: 54px;
+$extra-large-font-size-11: 56px;
+$extra-large-font-size-12: 58px;
+$extra-large-font-size-13: 60px;
+$extra-large-font-size-14: 62px;
+$extra-large-font-size-15: 64px;
+$extra-large-font-size-16: 66px;
+$extra-large-font-size-17: 68px;
+$extra-large-font-size-18: 70px;
+$extra-large-font-size-19: 72px;
+$extra-large-font-size-20: 74px;
+$extra-large-font-size-21: 76px;
+$extra-large-font-size-22: 78px;
+$extra-large-font-size-23: 80px;
+$extra-large-font-size-24: 82px;
+$extra-large-font-size-25: 84px;
+$extra-large-font-size-26: 86px;
+$extra-large-font-size-27: 88px;
+
+$huge-font-size: 42px;
+$huge-font-size-00: 44px;
+$huge-font-size-01: 46px;
+$huge-font-size-02: 48px;
+$huge-font-size-03: 50px;
+$huge-font-size-04: 52px;
+$huge-font-size-05: 54px;
+$huge-font-size-06: 56px;
+$huge-font-size-07: 58px;
+$huge-font-size-08: 60px;
+$huge-font-size-09: 62px;
+$huge-font-size-10: 64px;
+$huge-font-size-11: 66px;
+$huge-font-size-12: 68px;
+$huge-font-size-13: 70px;
+$huge-font-size-14: 72px;
+$huge-font-size-15: 74px;
+$huge-font-size-16: 76px;
+$huge-font-size-17: 78px;
+$huge-font-size-18: 80px;
+$huge-font-size-19: 82px;
+$huge-font-size-20: 84px;
+$huge-font-size-21: 86px;
+$huge-font-size-22: 88px;
+$huge-font-size-23: 90px;
+$huge-font-size-24: 92px;
+$huge-font-size-25: 94px;
+$huge-font-size-26: 96px;
+$huge-font-size-27: 98px;
+$huge-font-size-28: 100px;
+$huge-font-size-29: 102px;
+$huge-font-size-30: 104px;
+$huge-font-size-31: 106px;
+$huge-font-size-32: 108px;
+$huge-font-size-33: 110px;
+$huge-font-size-34: 112px;
+$huge-font-size-36: 114px;
+$huge-font-size-37: 116px;
+$huge-font-size-38: 118px;
+$huge-font-size-39: 120px;
+$huge-font-size-40: 122px;
+$huge-font-size-41: 124px;
+$huge-font-size-42: 126px;
+$huge-font-size-43: 128px;
+$huge-font-size-44: 130px;
+$huge-font-size-45: 132px;
+
+
+
+
+
+
+
+$very-small-font-size: 12px;
+$very-small-font-size-00: 13px;
+$very-small-font-size-01: 14px;
+
+
+$header-01-font-size: 24px;
+$header-01-font-size-00: 28px;
+$header-01-font-size-01: 32px;
+
+$header-02-font-size: 24px;
+
+$subsection-header-01-font-size: 18px;
+$subsection-header-01-font-size-00: 20px;
+
+$icons-header-font-size: 20px;
+
+
+
+
+
+$very-huge-font-size: 72px;
+
+$button-font-size: 14px;
+$button-font-size-00: 16px;
+$button-font-size-01: 18px;
+$button-font-size-02: 20px;
+$button-font-size-03: 22px;
+$button-font-size-04: 24px;
+
+$shadow-00: 0px 12px 18.69px 2.31px rgba(0, 0, 0, 0.31);
+
+$rwd-380: 380px;
+$rwd-420: 420px;
+$rwd-480: 480px;
+$rwd-500: 500px;
+$rwd-550: 550px;
+$rwd-650: 650px;
+$rwd-700: 700px;
+$rwd-768: 768px;
+$rwd-860: 860px;
+$rwd-900: 900px;
+$rwd-992: 992px;
+$rwd-1100: 1100px;
+$rwd-1300: 1300px;
+$rwd-1400: 1400px;
+$rwd-1500: 1500px;
+$rwd-1600: 1600px;
+$rwd-1700: 1700px;
+$rwd-1800: 1800px;
